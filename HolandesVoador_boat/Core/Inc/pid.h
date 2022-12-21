@@ -1,6 +1,13 @@
 #ifndef PID_H_
 #define PID_H_
 
+#include "stm32f4xx_hal.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+#include <string.h>
+#include <assert.h>
+#include <math.h>
 
 typedef enum
 	{
