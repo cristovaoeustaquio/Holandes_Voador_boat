@@ -4,7 +4,7 @@
 This project was developed as part of the Embedded Systems Programming course at UFMG - Prof. Ricardo de Oliveira Duarte – Department of Electronic Engineering.
 
 This projects contains functions and codes to provide use of some hardware resources from an autonomous boat which is equipped with a MG90S Tower Pro servo motor and an RF-200 DC motor. The servo motor is the actuator responsible for changing the boat's orientation through the rudder. The DC motor is coupled to the boat's propulsion propeller. 
-![Holandês Voador](holandes_voador.png)
+![Holandês Voador](holandes_voador.jpg)
 
 For more information on how this boat should work:
 ------
