@@ -36,7 +36,8 @@ This project was implemented and tested in STM32 Nucleo-64 with STM32f446RE MCU.
 - It might be helpful to use Tauno Plotter to plot data. You can download and learn to use it on https://github.com/taunoe/tauno-serial-plotter
 
 ## Project's main files:
- 'Bluetooth_BLE_V4.2_JDY-18.c' and 'Bluetooth_BLE_V4.2_JDY-18.h' from ![API BLE](https://github.com/opdpires/API_Bluetooth)
+ 'Bluetooth_BLE_V4.2_JDY-18.c' and 'Bluetooth_BLE_V4.2_JDY-18.h' from [API BLE](https://github.com/opdpires/API_Bluetooth)
+ 
  'pid.c' and 'pid.h
 
 
