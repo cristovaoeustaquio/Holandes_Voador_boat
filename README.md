@@ -38,7 +38,7 @@ This project was implemented and tested in STM32 Nucleo-64 with STM32f446RE MCU.
 ## Project's main files:
  'Bluetooth_BLE_V4.2_JDY-18.c' and 'Bluetooth_BLE_V4.2_JDY-18.h' from [API BLE](https://github.com/opdpires/API_Bluetooth)
  
- 'pid.c' and 'pid.h
+ 'pid.c' and 'pid.h'
 
 
 ## How to use it:
