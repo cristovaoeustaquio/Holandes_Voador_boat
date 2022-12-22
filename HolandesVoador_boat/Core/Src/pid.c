@@ -59,9 +59,9 @@ void set_SetPoint(float sp){
 
 int8_t* RSSI(char*devices_vector, int8_t* RSSI_beacons){
 	//search str in a array and return pointer
-	char *PSEB1_str = strstr(devices_vector,"Amazfit"); 
-	char *PSEB2_str = strstr(devices_vector,"QCY");
-	char *PSEB3_str = strstr(devices_vector,"QCY");
+	char *PSEB1_str = strstr(devices_vector,"PSE2022_B1");
+	char *PSEB2_str = strstr(devices_vector,"PSE2022_B2");
+	char *PSEB3_str = strstr(devices_vector,"PSE2022_B3");
 	//convert char to int and assing to array
 	if (PSEB1_str != NULL) RSSI_beacons[0] = -1*((*(PSEB1_str-3)-'0')*10 + (*(PSEB1_str-2)-'0'));
 	if (PSEB2_str != NULL) RSSI_beacons[1] = -1*((*(PSEB2_str-3)-'0')*10 + (*(PSEB2_str-2)-'0'));
